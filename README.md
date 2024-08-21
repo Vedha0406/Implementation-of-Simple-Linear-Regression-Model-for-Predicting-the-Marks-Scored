@@ -67,32 +67,42 @@ print("RMSE= ",rmse)
 ## Output:
 Dataset
 output
+
 ![dataset](https://github.com/user-attachments/assets/4e02772d-eed6-43f6-8932-0fb0751720bd)
 
 Head Values
 output
+
 ![head](https://github.com/user-attachments/assets/191c1a02-3486-426e-bffe-b3d05d51d91c)
 
 Tail Values
 output
+
 ![tail](https://github.com/user-attachments/assets/883da906-50b9-4da8-b79c-5c90291141d5)
 
 X and Y values
 output
+
 ![xyvalues](https://github.com/user-attachments/assets/cfec8252-ad31-4206-9782-2527fb05b918)
 
 Predication values of X and Y
 output
+![predict ](https://github.com/user-attachments/assets/de6de4b6-6868-4369-983f-59adeb5d424e)
+
 
 MSE,MAE and RMSE
 output
+![values](https://github.com/user-attachments/assets/66ae6c5b-b714-4316-aafe-92225c2e8a3f)
 
 Training Set
 output
 
+![train](https://github.com/user-attachments/assets/813aac8b-3431-4385-8afb-96ddfffd3926)
+
 Testing Set
 output
 
+![test](https://github.com/user-attachments/assets/9a5018c1-cb1b-468e-8c06-d607b60aa780)
 
 
 ## Result:
